@@ -1,0 +1,30 @@
+/**
+ * 
+ * Main structure.
+ * 
+**/
+
+* {@include box-sizing(border-box);}
+
+body, html {overflow-x:hidden; width:100%; height:100%}
+
+body {
+    background:$background-main; position:relative;
+    &.nav-open {margin-left:15.75em}
+
+    @include single-transition(margin, .5s, ease)
+}
+
+.wrapper {
+    width:100%; margin:0 auto; padding:0 1em; position:relative; 
+    @extend .clearfix;
+}
+.main-holder {height:100%}
+#main-content {position:relative; height:100%}
+
+#main {
+    padding:0 3.75em; margin-left:3%; width: 90%;
+    
+    a {color:$text-color-link}
+}
+

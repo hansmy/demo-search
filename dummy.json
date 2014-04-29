@@ -1,0 +1,154 @@
+{ "response":
+  {"numFound":19,"start":0,"docs":[
+      {
+        "icon":"page_white_acrobat",
+        "size":3060846,
+        "id":"/notube_d3-1-user-and-context-model-specification_final.pdf",
+        "when":"2014-02-17T07:38:08Z",
+        "path":"/notube_d3-1-user-and-context-model-specification_final.pdf",
+        "title":["/notube_d3-1-user-and-context-model-specification_final.pdf"]},
+      {
+        "icon":"page_white_acrobat",
+        "size":877634,
+        "id":"/06354384.pdf",
+        "when":"2014-02-17T07:38:12Z",
+        "path":"/06354384.pdf",
+        "title":["/06354384.pdf"],
+        "keywords":"ubiquitous systems, location intelligence, context awareness"},
+      {
+        "icon":"page_white_acrobat",
+        "size":630898,
+        "id":"/ewic_fdia09_s1paper6.pdf",
+        "when":"2014-02-17T07:38:15Z",
+        "path":"/ewic_fdia09_s1paper6.pdf",
+        "title":["/ewic_fdia09_s1paper6.pdf"]},
+      {
+        "icon":"page_white_acrobat",
+        "size":258219,
+        "id":"/lopes_hcir_2010.pdf",
+        "when":"2014-02-10T08:12:55Z",
+        "path":"/lopes_HCIR_2010.pdf",
+        "title":["/lopes_HCIR_2010.pdf"]},
+      {
+        "icon":"page_white_acrobat",
+        "size":408277,
+        "id":"/deanhall_trec12.pdf",
+        "when":"2014-02-10T08:37:47Z",
+        "path":"/deanhall_trec12.pdf",
+        "title":["/deanhall_trec12.pdf"],
+        "keywords":""},
+      {
+        "icon":"page_white_acrobat",
+        "size":3009696,
+        "id":"/1-s2.0-s0885230809000151-main (5).pdf",
+        "when":"2014-02-10T08:12:51Z",
+        "path":"/1-s2.0-S0885230809000151-main (5).pdf",
+        "title":["/1-s2.0-S0885230809000151-main (5).pdf"]},
+      {
+        "icon":"page_white_acrobat",
+        "size":934529,
+        "id":"/06225928.pdf",
+        "when":"2014-02-17T07:38:25Z",
+        "path":"/06225928.pdf",
+        "title":["/06225928.pdf"],
+        "keywords":""},
+      {
+        "icon":"page_white_acrobat",
+        "size":344747,
+        "id":"/p309-church.pdf",
+        "when":"2014-03-24T06:59:57Z",
+        "path":"/p309-church.pdf",
+        "title":["/p309-church.pdf"]},
+      {
+        "icon":"page_white_acrobat",
+        "size":399117,
+        "id":"/06200611.pdf",
+        "when":"2014-02-17T07:38:18Z",
+        "path":"/06200611.pdf",
+        "title":["/06200611.pdf"],
+        "keywords":"Mobile Search"},
+      {
+        "icon":"page_white_acrobat",
+        "size":149984,
+        "id":"/05766922.pdf",
+        "when":"2014-02-17T07:38:27Z",
+        "path":"/05766922.pdf",
+        "title":["/05766922.pdf"]}]
+  },
+  "facet_counts":{
+    "facet_queries":{},
+    "facet_fields":{
+      "icon":[
+        "page_white_acrobat",18,
+        "page_white_code",1,
+        "page_white_text",0],
+      "keywords":[
+        "information",2,
+        "location",2,
+        "mobile",2,
+        "retrieval",2,
+        "search",2,
+        "systems",2,
+        "alignment",1,
+        "analysis",1,
+        "awareness",1,
+        "based",1,
+        "by",1,
+        "context",1,
+        "differences",1,
+        "empirical",1,
+        "enhanced",1,
+        "hashing",1,
+        "humming",1,
+        "individual",1,
+        "intelligence",1,
+        "key",1]},
+    "facet_dates":{},
+    "facet_ranges":{}},
+  "highlighting":{
+    "/notube_d3-1-user-and-context-model-specification_final.pdf":{
+      "attr_content":[" User and <em>Context</em> model\nSpecification\n \n Coordinator: Davide Palmisano, Michele Minno\nWith contributions"],
+      "title":["/notube_d3-1-user-and-<em>context</em>-model-specification_final.pdf"],
+      "path":["/notube_d3-1-user-and-<em>context</em>-model-specification_final.pdf"]
+      },
+    "/06354384.pdf":{
+      "attr_content":[" \n \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n <em>Context</em> Aware"],
+      "keywords":["ubiquitous systems, location intelligence, <em>context</em> awareness"],
+      "attr_dc_subject":["ubiquitous systems, location intelligence, <em>context</em> awareness"],
+      "attr_meta_keyword":["ubiquitous systems, location intelligence, <em>context</em> awareness"],
+      "attr_meta":["ubiquitous systems, location intelligence, <em>context</em> awareness"],
+      "attr_dc_title":["<em>Context</em> Aware Services for Mobile Users: JQMobile vs Flash Builder Implementations "]
+      },
+    "/ewic_fdia09_s1paper6.pdf":{
+      "attr_content":[" \n \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n \n    \n <em>Context</em> Features and their use in"]
+      },
+    "/lopes_hcir_2010.pdf":{
+      "attr_content":[" \n \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n \n    \n <em>Context</em> in Health Information"]
+      },
+    "/deanhall_trec12.pdf":{
+      "attr_content":[" complex information needs that\nare highly dependent on <em>context</em> and user interests. According to a report"]
+      },
+    "/1-s2.0-s0885230809000151-main (5).pdf":{
+      "attr_content":[" <em>CONTEXT</em> QUERY LANGUAGE WITH PARAMETRIC POLYMORPHI SM AND SUBTYPING \n \n    \n A STAT ICALLY TYPED LOGIC"],
+      "attr_meta":["A STATICALLY TYPED LOGIC <em>CONTEXT</em> QUERY LANGUAGE WITH PARAMETRIC POLYMORPHI SM AND SUBTYPING"],
+      "attr_dc_title":["A STATICALLY TYPED LOGIC <em>CONTEXT</em> QUERY LANGUAGE WITH PARAMETRIC POLYMORPHI SM AND SUBTYPING"]
+      },
+    "/06225928.pdf":{
+      "attr_content":["-Organizing Models for the Gamification of <em>Context</em>-Aware User Applications \n \n    \n Toward Adopting Self"],
+      "attr_meta":["Toward Adopting Self-Organizing Models for the Gamification of <em>Context</em>-Aware User Applications"],
+      "attr_dc_title":["Toward Adopting Self-Organizing Models for the Gamification of <em>Context</em>-Aware User Applications"]
+      },
+    "/p309-church.pdf":{
+      "attr_content":[" search queries be augmented by <em>context</em> in-\nformation, as a way to help search engines to retrieve more"]
+      },
+    "/06200611.pdf":{
+      "attr_content":[" Search through Location Based <em>Context</em> and Personalization \n \n    \n   \n \n  Improving Mobile Search through"],
+      "attr_meta":["Improving Mobile Search through Location Based <em>Context</em> and Personalization"],
+      "attr_dc_title":["Improving Mobile Search through Location Based <em>Context</em> and Personalization"]
+      },
+    "/05766922.pdf":{
+      "attr_content":[" psychology literature, I identify a potential problem  \nin this approach - the goal <em>context</em> that the majority"]
+      }
+    }
+  }
+}

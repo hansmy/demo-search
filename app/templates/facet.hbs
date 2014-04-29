@@ -1,0 +1,8 @@
+<li class="facet">
+ {{#if isIcon }}
+ 	<img src='images/icons/{{unescapeString value}}.gif' class='icon'>
+ {{else}}
+    <a href="" class="facet-name">{{unescapeString value}}</a>  
+ {{/if}}  
+  <span class="facet-count">{{count}}</span>
+</li>

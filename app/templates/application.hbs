@@ -1,0 +1,17 @@
+
+<div id="main-content" role="main">
+    <aside id="main-sidebar"  >
+        {{partial "aside"}}
+    </aside>
+    <section id="main" class="pure-u-1-2">
+        <header class="search-header">
+    		<h3 class="site-heading">Your Search</h3>
+   			 <h1 class="dsa-heading">OPENi Search</h1>
+  		</header>
+  	  	<div class="sr-input">
+    		{{view DSApp.searchInput}}
+    		{{view DSApp.searchSubmit}}
+  		</div>
+  		{{outlet}}
+    </section>
+</div>

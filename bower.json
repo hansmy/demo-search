@@ -1,0 +1,26 @@
+{
+  "name": "demo-search",
+  "version": "0.0.0",
+  "dependencies": {
+    "ember": "1.0.0",
+    "ember-data-shim": "1.0.0-beta.2",
+    "bootstrap-sass":"*"
+  },
+  "devDependencies": {
+    "ember-mocha-adapter": "0.1.2"
+  },
+  "homepage": "https://github.com/juanmillan85/demo-search.git",
+  "authors": [
+    "Juan David Millan <juanmillan85@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
