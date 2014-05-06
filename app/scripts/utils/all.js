@@ -15,6 +15,6 @@
  *******************************************************************************/
 Dsa.Utils = Em.Object.extend({});
 
-require('scripts/dsa-utils/query-strings');
-require('scripts/dsa-utils/dates');
-require('scripts/dsa-utils/handlebars-helpers');
+require('scripts/utils/query-strings');
+require('scripts/utils/dates');
+require('scripts/utils/handlebars-helpers');
