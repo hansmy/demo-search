@@ -13,8 +13,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *******************************************************************************/
-require('scripts/dsa-components/observer');
-require('scripts/dsa-components/input');
-require('scripts/dsa-components/result_set');
-require('scripts/dsa-components/pagination');
-require('scripts/dsa-components/facets');
+require('scripts/core/class');
+require('scripts/core/solr');
+require('scripts/core/observer');
+require('scripts/coreinput');
+require('scripts/core/result_set');
+require('scripts/core/pagination');
+require('scripts/core/facets');
