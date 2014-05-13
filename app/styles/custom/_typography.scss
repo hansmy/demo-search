@@ -51,7 +51,7 @@ p, pre {margin:0 0 1em 0}
 pre,
 .pre-like {padding:1em; background:$background-lightgrey; border:1px dashed $background-borders}
 strong {font-family:$font-family-bold}
-em {font-style:italic; color:$background-grey}
+em {font-style:italic; color:$em-highlight}
 blockquote {
 	margin:3.125em 0; padding-left:4em; position:relative; @extend em;
 	&:before {font-family:'icon-font'; font-style:normal; color:$text-color-lightgrey; font-size:400%; position:absolute; top:20px; left:-7px; @extend .icon-blockquote}
