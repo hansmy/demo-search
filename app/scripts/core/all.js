@@ -13,10 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *******************************************************************************/
-require('scripts/core/class');
-require('scripts/core/solr');
+
 require('scripts/core/observer');
-require('scripts/coreinput');
+require('scripts/core/input');
 require('scripts/core/result_set');
 require('scripts/core/pagination');
 require('scripts/core/facets');

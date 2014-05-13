@@ -43,3 +43,5 @@ Dsa = Em.Namespace.create();
 // dsa Core
 require('scripts/utils/all');
 require('scripts/core/all');
+require('scripts/core/class');
+require('scripts/core/solr');
