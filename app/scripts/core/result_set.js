@@ -30,10 +30,19 @@ Dsa.ResultSet = Dsa.SearcherObserver.extend({
     if (this.searcher.params.start === 0) {
       this.set('results', []);
     }
-
-    for (var i=0; i < results.length; i++) {
+    //Adding highlight snipet
+    var highlights=this.searcher.getHighlights();
+     for (var i=0; i < results.length; i++) {
+      console.log(results[i]);
+      var id=results[i].id;
+      console.log(highlights[id]);
+      results[i].snipet= highlights[id];
+      console.log(results[i]);
       this.results.addObject(results[i]);  
+
     }
+    
+
 
     this.searcher.params.start += this.searcher.params.rows;
     this.searcher.set('searchedFor', this.searcher.params.q);

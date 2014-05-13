@@ -53,7 +53,7 @@ require('scripts/router');
 DSApp.searcher = Dsa.SolrSearcher.create({
 
   // Point this value to your Solr instance
-  url: "http://localhost:8983/solr/collection1/select",
+  url: "http://ambiesearch.com:8983/solr/collection1/select",
   
   params: {
 
@@ -63,6 +63,7 @@ DSApp.searcher = Dsa.SolrSearcher.create({
     "qf" : "title^2 text attr_content",
     "hl" : "on",
     "hl.fl" : "*", 
+    "hl.snippets":"2",
     "indent":true,
 
     // Optionally uncomment the next three lines to include facets, and change the `facet.field` value to match your fields
